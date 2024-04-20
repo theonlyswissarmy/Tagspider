@@ -4,6 +4,8 @@ Tagspider is a mass media tagging tool, done minimally, uses the musicbrainz api
 
 Works by using already existing metadata from the song, and tries to decipher what it can from the title of the file uploaded
 
+Right now this still kinda sucks, I've been using python more and more, I might switch over to that
+
 STILL TO DO:
 entire folder function still isn't working
 See if theres a way to use Last.fm api in anyway
