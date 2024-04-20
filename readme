@@ -1,3 +1,9 @@
-TODO 
+Just found out about musicbrainz picard - which seems like a much better version of this.
 
-add final upload
+Tagspider is a mass media tagging tool, done minimally, uses the musicbrainz api to assign various bits of metadata to a piece of music. 
+
+Works by using already existing metadata from the song, and tries to decipher what it can from the title of the file uploaded
+
+STILL TO DO:
+entire folder function still isn't working
+See if theres a way to use Last.fm api in anyway
