@@ -6,6 +6,12 @@ Works by using already existing metadata from the song, and tries to decipher wh
 
 Right now this still kinda sucks, I've been using python more and more, I might switch over to that
 
+Recently I made the decision to destroy the entire framework of the resttemplate to try to switch over to a new API
+
+this was a bad call, the entire thing didn't work, I need to redo everthing 
+
+it's so over
+
 STILL TO DO:
 entire folder function still isn't working
 See if theres a way to use Last.fm api in anyway
