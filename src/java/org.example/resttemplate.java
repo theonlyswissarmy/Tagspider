@@ -16,7 +16,7 @@ import java.util.concurrent.ExecutionException;
 import java.util.concurrent.TimeUnit;
 
 public class resttemplate {
-    String apikey = "1beb6c3c595ef5c272efba695dd6c465";
+    String apikey = "";
     ObjectMapper mapper = new ObjectMapper();
 
     String token = "temp";
